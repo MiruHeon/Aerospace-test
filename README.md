@@ -1,8 +1,7 @@
-# SatelliteOrbitSimulation
-## -위성궤도 시뮬레이션
+# SatelliteOrbitSimulation (위성궤도 시뮬레이션)
 
 ### - 주요 기능
-위성 궤도 시각화
+위성궤도 시각화
 
 ### - 사용한 기본 파라미터
 지구 반지름: R = 6371km
